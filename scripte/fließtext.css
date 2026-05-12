@@ -10,6 +10,10 @@ ul{
     list-style-type: none;
 
 }
+li.mitwirkende{
+    text-algin: center;
+    font-style: italic;
+}
 p.mittig{
     text-align: center;
     font-style: italic;
