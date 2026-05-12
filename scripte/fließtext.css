@@ -1,5 +1,9 @@
+body{
+    font-style: bold;
+    text-align: center;
+        }
 h1{
-    text-align:center
+    text-align:center;
 }
 cite{
     font-size: 1.2em;
