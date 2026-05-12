@@ -1,0 +1,19 @@
+h1{
+    text-align:center
+}
+cite{
+    font-size: 1.2em;
+    font-style: italic;
+    margin-left: 20px;
+}
+ul{
+    list-style-type: none;
+
+}
+p.mittig{
+    text-align: center;
+    font-style: italic;
+}
+p.mitig2{
+    text-align: center;
+}
