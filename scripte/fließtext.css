@@ -1,6 +1,3 @@
-body{
-    font-style: bold;
-    }
 h1{
     text-align:center;
 }
@@ -18,5 +15,8 @@ p.mittig{
     font-style: italic;
 }
 p.mitig2{
+    text-align: center;
+}
+td.hyper{
     text-align: center;
 }
